@@ -1,0 +1,9 @@
+总部 位于 英国 的 防毒软件 公司 索防士 （ Sophos ） 上周 侦测 到 一只 名为 Winevar 的 新病毒 （ W32 / Winevar - A ） 。 这个 新病毒 还会 蓄意 向 防毒 业界 的 厂商 — — 赛门铁克 （ Symantec ） 的 网站 发动 阻断 服务 攻击 ， 这个 病毒 已 感染 全球 许多 电脑 用户 。 
+ 
+ 　 　 索防士 是 在 公布 11 月 全球 最 常 发作 的 电脑病毒 名单 时 ， 透露 此 消息 。 在 此 排行榜 中 ， “ 捣蛋 虫 ” （ Bugbear 蠕虫 ， W32 / Bugbear - A ） 病虫 已 连续 第二个 月 占据 排行榜 的 龙头 。 其余 依次 为 新 进榜 的 W32 / Braid - A （ Braid 蠕虫 ） 、 第 10 个 月 占据 10 大 排行榜 的 W32 / Klez - H （ Klez 变种 ） 、 W32 / Opaserv - A （ Opaserv 蠕虫 ） 以及 W32 / Opaserv - C （ Opaserv 变种 ） 。 
+ 
+ 　 　 第 6 到 第 10 名是 再度 进榜 的 W32 / Flcss （ FunLove 蠕虫 ） 、 再度 进榜 的 W95 / Spaces （ Spaces 病毒 ） 、 新进 榜 的 W32 / Opaserv - F （ Opaserv 变种 ） 、 W32 / Opaserv - B （ Opaserv 变种 ） 及 W32 / Opaserv - D （ Opaserv 变种 ） 。 
+ 
+ 　 　 “ 捣蛋 虫 ” 能 同时 采用 两种 模式 欺骗 使用者 ， 通过 电邮 及 网络共享 资源 四处 散布 ， 所有 电脑 用户 都 应 确保 自己 能 防止 “ 捣蛋 虫 ” 的 入侵 。 因为 它 侵入 系统 的 程式码 ， 能 记录 受害者 的 按键 动作 ， 使 黑客 能 充分 掌握 人们 所 输入 的 任何 资料 ， 包括 密码 、 银行账号 及 信用卡 号 。 
+ 
+ 　 　 至于 新病毒 Winevar 病虫 ， 索防士 认为 ， 撰写 此一 病毒 的 灵感 来自 11 月 在 韩国 汉城 举行 的 2002 年 亚洲 防毒 研究者 协会 （ Association   of   Anti - Virus   Asia   Researchers , AVAR ） 年度 大会 。 （ 彭博社 ）

@@ -1,0 +1,7 @@
+IE 浏览器 出现 大 漏洞 ， 若 不 修补 将 大开 黑客 入侵 大门 ， 不仅 会 被 黑客 当作 攻击 对象 ， 更 可能 被 安装 间谍 程式 ， 或是 删除 档案 。 
+ 
+ 　 　 针对 此 ， 微软 （ Microsoft ） 上周 发布 其 网络 浏览器 （ Internet   Explorer ） 的 补丁 程序 。 
+ 
+ 　 　 全球 软件业 巨擘 微软 将 这 一 安全 警告 列为 “ 严重 ” 级 。 由于 其 严重 的 安全 威胁 ， 微软 在 发布 公司 每月 例行 安全 公告 之前 ， 发布 了 一份 额外 公告 宣布 上述 消息 ； 成功 利用 此 漏洞 的 黑客 即可 控制 此受 攻击 的 系统 ： 包括 安装 间谍 程式 及 后门 程式 ， 监看 、 改变 或 删除 资料 ， 并 建立 一个 拥有 全部 权限 的 新 账号 。 
+ 
+ 　 　 受此 漏洞 影响 的 系统 包括 Internet   Explorer   5.01   SP2 ,   SP3 与 SP4 ,   Internet   Explorer   5.5   SP2 ,   Internet   Explorer   6 ,   Internet   Explorer   6   SP1 ,   和 Windows   Server   2003 的 Internet   Explorer   6 ， 甚至 包括 最新 的 64 位元 版本 。 （ 路透社 ）

@@ -1,0 +1,8 @@
+
+ 总部位于英国的防毒软件公司索防士（Sophos）上周侦测到一只名为Winevar的新病毒（W32/Winevar-A）。这个新病毒还会蓄意向防毒业界的厂商——赛门铁克（Symantec）的网站发动阻断服务攻击，这个病毒已感染全球许多电脑用户。
+　　索防士是在公布11月全球最常发作的电脑病毒名单时，透露此消息。在此排行榜中，“捣蛋虫”（Bugbear蠕虫，W32/Bugbear-A）病虫已连续第二个月占据排行榜的龙头。其余依次为新进榜的W32/Braid-A（Braid蠕虫）、第10个月占据10大排行榜的W32/Klez-H（Klez变种）、W32/Opaserv-A（Opaserv蠕虫）以及W32/Opaserv-C（Opaserv变种）。
+　　第6到第10名是再度进榜的W32/Flcss（FunLove蠕虫）、再度进榜的W95/Spaces（Spaces病毒）、新进榜的W32/Opaserv-F（Opaserv变种）、W32/Opaserv-B（Opaserv变种）及W32/Opaserv-D（Opaserv变种）。
+　　“捣蛋虫”能同时采用两种模式欺骗使用者，通过电邮及网络共享资源四处散布，所有电脑用户都应确保自己能防止“捣蛋虫”的入侵。因为它侵入系统的程式码，能记录受害者的按键动作，使黑客能充分掌握人们所输入的任何资料，包括密码、银行账号及信用卡号。
+　　至于新病毒Winevar病虫，索防士认为，撰写此一病毒的灵感来自11月在韩国汉城举行的2002年亚洲防毒研究者协会（Association of Anti-Virus Asia Researchers,AVAR）年度大会。（彭博社）
+
+

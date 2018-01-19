@@ -1,0 +1,5 @@
+最近 ， 当 用户 " 右击 " 链接 和 选择 " 保存 链接 为 ... " 时 ， 假冒 链接 就 会 出现 。 
+ 
+ 　 　 这是 Bitlance   Winter 新 发现 了 一个 Firefox 漏洞 。 今 次 漏洞 的 对象 转为 Firefox ， Thunderbird 以及   Mozilla   Suite ， 并且 包括 这些 软件 的 全部 版本 。 之前 ， Bitlance 曾 披露 过 一个 存在 Internet   Explorer 和 Outlook   Express 的 重要 漏洞 — — 程序 状态栏 显示 假冒 URL ， 其 声名 得以 雀起 。 
+ 
+ 　 　 庆幸 的 是 ， bitlance 已经 找到 解决 状态栏 问题 的 方法 。 不过 ， 该 方法 只 适用 于 Firefox ,   Thunderbird 以及 Mozilla   Suite 。 今 次 诡计 与 之前 不同 的 是 ， 它 利用 了 一个 嵌套 链接 标记 （ 典型 的 链接 标记 如 ： < a   href = ' someurl . htm ' > some   text   to   click   on < / a > ） ， 使到 状态栏 只 显示 第一个 标记 的 内容 ， 但 用户 实际 被 重定向 到 内部 标记 的 目标 地址 。

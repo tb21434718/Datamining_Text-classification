@@ -1,0 +1,9 @@
+
+ 
+　　Transmeta公司打算最早可在下周发布其用于Internet设备和其他设备的Linux操作系统版本，这样开发人员便可开始试验它。
+　　Transmeta公司代表称，这家芯片制造商准备于不久的将来根据通用公共许可证(GNU)程序推出该公司的Linux操作系统产品－－Mobile Linux。然而没有定下确切的面市日期，但它可能在下周或再下一周投放市场。
+　　Linux的创建者Linux Torvalds现担任Transmeta公司的程序员。
+　　这家一度曾保密的公司一直准备向开放源码界发布Mobile Linux。事实上，人们要求它在GNU许可证下向开发源码界发行改进版本。
+　　Mobile Linux用在Gateway、日立和其他公司生产的Internet设备中。配置Transmeta芯片的笔记本电脑则不使用Linux，但作为替代仍依靠Windows。Transmeta很快会把这一操作系统提供到它的Web网络。该公司期望人们下载Mobile Linux，修补该操作系统，然后提出如何改进它的建议。
+
+

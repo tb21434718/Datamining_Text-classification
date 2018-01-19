@@ -1,0 +1,11 @@
+在 该 日 ， 运行 或 退出 Word 的 时候 会 会 显示 包含 以下内容 的 对话框 ： “ - ParasiteVirus1.0 XYourcomputerisin 鄄 fectedwiththeParasiteVirus , version1.0 ! ” 。 同时 在 用户 打开 的 文档 中 ， 用 “ ， ” 替换 “ 。 ” ， 用 字母 “ e ” 替换 字母 “ a ” ， 用 “ not ” 替换 “ and ” 。 
+ 
+ 　 　 病毒 名称 ： WM _ Etkill 发作 日期 ： 2 月 17 日 危害 程度 ： 感染 Word 的 通用 模板 文件 normal . dot ， 在 17 日 修改 Win . ini ， 造成 系统启动 不 稳定 ， 并 使得 快捷键 Alt + F8 和 Alt + F11 失效 。 
+ 
+ 　 　 病毒 名称 ： WM _ Paycheck . A 发作 日期 ： 2 月 20 日 危害 程度 ： 感染 Word 的 通用 模板 文件 normal . dot ， 如果 被 感染 文件 在 20 日 被 保存 ， 就 会 显示 以下 信息 “ Internalerrorwasoc 鄄 curredinmoduleUNIDRV . DLL . Yourappli 鄄 cationmaynotbeworknormally . PleasecontactMicrosoftProductSupport . ” （ 中文 意思 为 ： RV . DLL 产生 内部 错误 ， 应用程序 可能 无法 正常 工作 ， 请 与 微软 产品 支持 部门 联络 。 ） 
+ 
+ 　 　 专家 提醒 ： 
+ 
+ 　 　 1 . 在 遭受 了 此类 病毒 或 黑客 的 入侵 以后 ， 被 感染 用户 的 一些 个人信息 很 有 可能 已经 被 泄漏 ， 所以 用户 应当 在 清除 病毒 的 同时 ， 对 个人 的 资料 作 适当 的 修改 ， 以 确保安全 。 这些 信息 包括 登录 网络 的 用户名 、 密码 、 邮箱 密码 、 QQ 密码 ， 以及 一些 应用软件 ， 如 网上银行 的 账户 、 密码 等 重要 信息 。 
+ 
+ 　 　 2 . 购买 和 安装 正版 的 杀毒软件 和 个人 防火墙 ， 并 根据 自身 需要 做好 相应 的 设置 ， 使 其 充分发挥 作用 。 同时 ， 要 定期 升级 杀毒软件 和 防火墙 ， 并 启动 “ 实时 监控 ” 功能 。

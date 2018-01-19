@@ -1,0 +1,7 @@
+
+ IE浏览器出现大漏洞，若不修补将大开黑客入侵大门，不仅会被黑客当作攻击对象，更可能被安装间谍程式，或是删除档案。
+　　针对此，微软（Microsoft）上周发布其网络浏览器（Internet Explorer）的补丁程序。
+　　全球软件业巨擘微软将这一安全警告列为“严重”级。由于其严重的安全威胁，微软在发布公司每月例行安全公告之前，发布了一份额外公告宣布上述消息；成功利用此漏洞的黑客即可控制此受攻击的系统：包括安装间谍程式及后门程式，监看、改变或删除资料，并建立一个拥有全部权限的新账号。
+　　受此漏洞影响的系统包括Internet Explorer 5.01 SP2, SP3与SP4, Internet Explorer 5.5 SP2, Internet Explorer 6, Internet Explorer 6 SP1, 和Windows Server 2003的Internet Explorer 6，甚至包括最新的64位元版本。（路透社）
+
+

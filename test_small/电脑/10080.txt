@@ -1,0 +1,9 @@
+
+  IBM公司正在试图招聘编程人员，“改编”Firefox开放源代码浏览器软件，使之能够与其服务器软件更好地实现互操作。这也是Firefox已经成为主流产品的最新迹象。
+　　IBM网站上的一则招聘广告称，IBM软件集团的一个新筹建的技术团队要招聘编程人员，用与IBM的On Demand中间件兼容的新功能强化Firefox浏览器。
+　　IBM公司的一名代表在本周三表示，这一广告是为公司的一个先进技术集团做的。该代表称，招聘的编程人员将从事FireFox项目的开发工作。
+　　IBM公司招聘Firefox编程人员的举措与其开发Workplace软件的计划是相吻合的。Workplace将数台个人电脑上的应用软件放在一台服务器上，供用户通过浏览器进行访问。IBM公司正在投资1亿美元，确保Linux计算机能够访问Workplace服务器。Workplace中现在包括即时通讯、字处理、电子表格，支持IE、Mozilla二种浏览器。
+　　尽管Firefox已经在蚕食IE的市场份额，但IE仍然是占有主导地位的浏览器软件。在目前二种最为普及的Linux版本中━━Red Hat Enterprise Linux、Suse Linux Enterprise Server，Firefox都是缺省浏览器软件。
+　　据招聘广告称，应聘者将成为Mozilla社区的“捐赠者”，还需要有使用Gecko显示引擎、XPCOM技术开发在不同计算机系统上运行的软件的经验。自Firefox 1.0去年发布后，参与Firefox开发的编程人员的就业前景一片大好。（小芹编译）
+
+

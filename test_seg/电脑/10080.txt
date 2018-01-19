@@ -1,0 +1,11 @@
+IBM 公司 正在 试图 招聘 编程人员 ， “ 改编 ” Firefox 开放 源代码 浏览器 软件 ， 使 之 能够 与其 服务器软件 更好 地 实现 互操作 。 这 也 是 Firefox 已经 成为 主流产品 的 最新 迹象 。 
+ 
+ 　 　 IBM 网站 上 的 一则 招聘广告 称 ， IBM 软件 集团 的 一个 新 筹建 的 技术 团队 要 招聘 编程人员 ， 用 与 IBM 的 On   Demand 中间件 兼容 的 新 功能 强化 Firefox 浏览器 。 
+ 
+ 　 　 IBM 公司 的 一名 代表 在 本周 三 表示 ， 这一 广告 是 为 公司 的 一个 先进 技术 集团 做 的 。 该 代表 称 ， 招聘 的 编程人员 将 从事 FireFox 项目 的 开发 工作 。 
+ 
+ 　 　 IBM 公司 招聘 Firefox 编程人员 的 举措 与其 开发 Workplace 软件 的 计划 是 相吻合 的 。 Workplace 将 数台 个人电脑 上 的 应用软件 放在 一台 服务器 上 ， 供 用户 通过 浏览器 进行 访问 。 IBM 公司 正在 投资 1 亿美元 ， 确保 Linux 计算机 能够 访问 Workplace 服务器 。 Workplace 中 现在 包括 即时通讯 、 字 处理 、 电子表格 ， 支持 IE 、 Mozilla 二种 浏览器 。 
+ 
+ 　 　 尽管 Firefox 已经 在 蚕食 IE 的 市场份额 ， 但 IE 仍然 是 占有 主导地位 的 浏览器 软件 。 在 目前 二种 最为 普及 的 Linux 版本 中 ━ ━ Red   Hat   Enterprise   Linux 、 Suse   Linux   Enterprise   Server ， Firefox 都 是 缺省 浏览器 软件 。 
+ 
+ 　 　 据 招聘广告 称 ， 应聘者 将 成为 Mozilla 社区 的 “ 捐赠者 ” ， 还 需要 有 使用 Gecko 显示 引擎 、 XPCOM 技术开发 在 不同 计算机系统 上 运行 的 软件 的 经验 。 自 Firefox   1.0 去年 发布 后 ， 参与 Firefox 开发 的 编程人员 的 就业 前景 一片 大好 。 （ 小芹 编译 ）

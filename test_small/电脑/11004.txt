@@ -1,0 +1,9 @@
+
+ 在该日，运行或退出Word的时候会会显示包含以下内容的对话框：“-ParasiteVirus1.0XYourcomputerisin鄄fectedwiththeParasiteVirus,version1.0!”。同时在用户打开的文档中，用“，”替换“。”，用字母“e”替换字母“a”，用“not”替换“and”。
+　　病毒名称：WM_Etkill发作日期：2月17日危害程度：感染Word的通用模板文件normal.dot，在17日修改Win.ini，造成系统启动不稳定，并使得快捷键Alt+F8和Alt+F11失效。
+　　病毒名称：WM_Paycheck.A发作日期：2月20日危害程度：感染Word的通用模板文件normal.dot，如果被感染文件在20日被保存，就会显示以下信息“Internalerrorwasoc鄄curredinmoduleUNIDRV.DLL.Yourappli鄄cationmaynotbeworknormally.PleasecontactMicrosoftProductSupport.”（中文意思为：RV.DLL产生内部错误，应用程序可能无法正常工作，请与微软产品支持部门联络。）
+　　专家提醒：
+　　1.在遭受了此类病毒或黑客的入侵以后，被感染用户的一些个人信息很有可能已经被泄漏，所以用户应当在清除病毒的同时，对个人的资料作适当的修改，以确保安全。这些信息包括登录网络的用户名、密码、邮箱密码、QQ密码，以及一些应用软件，如网上银行的账户、密码等重要信息。
+　　2.购买和安装正版的杀毒软件和个人防火墙，并根据自身需要做好相应的设置，使其充分发挥作用。同时，要定期升级杀毒软件和防火墙，并启动“实时监控”功能。
+
+
